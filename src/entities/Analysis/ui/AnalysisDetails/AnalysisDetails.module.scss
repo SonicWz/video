@@ -1,0 +1,9 @@
+.analysisDetailsCard {
+  @apply w-full flex flex-col gap-2 mb-8 p-5;
+}
+.analysisTitle {
+  @apply w-1/5 border border-black border-solid rounded-3xl p-4 mb-4;
+}
+.analysisContent {
+  @apply grid grid-cols-2 gap-5;
+}
